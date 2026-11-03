@@ -6,7 +6,7 @@ MiaUI is the culmination of years of (interrupted) passionate development. This 
 
 ## 🤝 Get Involved!
 
-MiaUI is built by retro lovers, for retro lovers, and we are just getting started as organization. Whether you are a C coder, a UI designer, or someone who loves compiling source ports, there is a place for you here. 
+MiaUI is built by retro lovers, for retro lovers, and we are just getting started as an organization. Whether you are a C coder, a UI designer, or someone who loves compiling source ports, there is a place for you here. 
 
 Since we rely on a custom GPU-enabled architecture, we are actively porting and adapting new games and cores. If you want to contribute:
 1. **Fork our repos** in the `miaui-cfw` organization.
