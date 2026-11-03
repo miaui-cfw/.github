@@ -2,7 +2,7 @@
 
 Welcome to **MiaUI**! 
 
-MiaUI is the culmination of over 2 years of (interrupted) passionate development. This custom firmware was born from a simple goal: to bring the absolute best of [MinUI](https://github.com/shauninman/MinUI-Legacy-RG35XX) (its elegant, distraction-free interface) and [Koriki / Batocera](https://github.com/rg35xx-cfw/Koriki) (its raw hardware power) into a single distribution for the **RG35XX legacy** models.
+MiaUI is the culmination of years of (interrupted) passionate development. This custom firmware was born from a simple goal: to bring the absolute best of [MinUI](https://github.com/shauninman/MinUI-Legacy-RG35XX) (its elegant, distraction-free interface) and [Koriki / Batocera](https://github.com/rg35xx-cfw/Koriki) (its raw hardware power) into a single distribution for the **RG35XX legacy** models.
 
 ## 🤝 Get Involved!
 
