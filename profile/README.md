@@ -13,4 +13,6 @@ Since we rely on a custom GPU-enabled architecture, we are actively porting and 
 2. **Check the issues tab** for requested ports or core updates.
 3. **Submit a Pull Request!** We review all community contributions and are always happy to help you get your code running on the RG35XX.
 
+👉 Check out the amazing developers and community making the MiaUI universe bigger every day: [github](https://github.com/topics/miaui) and [archive](https://archive.org/search.php?query=subject%3Amiaui).
+
 Grab your console, [flash the latest](https://github.com/miaui-cfw/MiaUI-GPU-RG35XX/releases) `.img`, and let's push this hardware to the limit. 
